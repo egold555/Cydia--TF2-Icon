@@ -1,0 +1,11 @@
+Package: org.golde.cydia.TF2Icons
+Name: TF2 Icon Shape
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: This was made customly for my friend Pat. This changes the shape of your icons to be the TF2 logo.  
+Homepage: http://eric.golde.org/cydia
+Maintainer: Eric Golde
+Author: Eric Golde
+Section: ECR_Themes
+Conflicts: 
+Depends: winterboard
